@@ -1,6 +1,6 @@
 # collaboration-video-tutorial
 
-##second level heading
+## second level heading
 
 
 following along
